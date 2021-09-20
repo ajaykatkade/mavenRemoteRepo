@@ -9,6 +9,10 @@ public class BootClass {
 		System.out.println(i);
 		System.out.println(i);
 	}
-
+	int arr[]=new int[200];
+	for(int i=0;i<200;i++) {
+		arr[i]=i;
+	}
+	
 }
 }
